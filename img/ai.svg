@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style>
+  </defs>
+  <rect class="a" width="16" height="16" rx="2" transform="translate(4 4)"/>
+  <rect class="a" width="6" height="6" transform="translate(9 9)"/>
+  <line class="a" y2="3" transform="translate(9 1)"/>
+  <line class="a" y2="3" transform="translate(15 1)"/>
+  <line class="a" y2="3" transform="translate(9 20)"/>
+  <line class="a" y2="3" transform="translate(15 20)"/>
+  <line class="a" x2="3" transform="translate(20 9)"/>
+  <line class="a" x2="3" transform="translate(20 14)"/>
+  <line class="a" x2="3" transform="translate(1 9)"/>
+  <line class="a" x2="3" transform="translate(1 14)"/>
+</svg>
